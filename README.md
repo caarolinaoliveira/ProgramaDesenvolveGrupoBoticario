@@ -1,5 +1,6 @@
 # BotiStudents Cosméticos
-
+## Link GitHub Pages
+https://caarolinaoliveira.github.io/ProgramaDesenvolveGrupoBoticario/
 ## Sobre o Projeto
 
 O BotiStudents Cosméticos é um projeto de front-end desenvolvido como parte do Programa Desenvolve oferecido pela Alura em parceria com o Grupo Boticário. O objetivo principal é criar um website responsivo para apresentar a linha de produtos BotiStudents, focando na experiência do usuário em dispositivos móveis.
